@@ -1,0 +1,43 @@
+.hello {
+    color:black;
+}
+
+.portfolioimage {
+    width:15vw;
+    height:10vh;
+}
+
+.header {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    margin:10px;
+    padding:20px;
+    background-color:rgb(79, 47, 47);
+}
+
+.home {
+    margin:20px;
+}
+
+.rightmargin {
+    color:white;
+
+}
+.background-color {
+    background-image: linear-gradient(to bottom,#0E4D92,black);
+    
+    height:100vh;
+    width:100vw;
+}
+
+.color {
+    background-color:#0E4D92;
+}
+
+.white {
+    color:	#EDEADE;
+}
+.padding {
+    padding:20px;
+}
